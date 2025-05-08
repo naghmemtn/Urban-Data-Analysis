@@ -1,0 +1,19 @@
+Latitude,Longitude,TimePeriod,Type,Source
+32.658685951059205,51.6771257212219,Afternoon,Clustered,DBSCAN
+32.65936221951219,51.679350804878055,Afternoon,Clustered,DBSCAN
+32.66151033333333,51.676483,Afternoon,Clustered,DBSCAN
+32.6613835,51.676835,Afternoon,Clustered,DBSCAN
+32.65417333333333,51.677658666666666,Afternoon,Clustered,DBSCAN
+32.65749,51.678325,Afternoon,Reinforced,Sheikh Lotfollah Mosque
+32.657563,51.678652,Afternoon,Reinforced,Sheikh Lotfollah Mosque
+32.6547736,51.67681,Afternoon,Reinforced,Shah Mosque
+32.654187,51.677972,Afternoon,Reinforced,Shah Mosque
+32.657291,51.676757,Afternoon,Reinforced,Aali Qapu Palace
+32.656953,51.676825,Afternoon,Reinforced,Aali Qapu Palace
+32.660088,51.676324,Afternoon,Reinforced,International Qeysariye cafe gallery
+32.660153,51.676719,Afternoon,Reinforced,International Qeysariye cafe gallery
+32.660069,51.676745,Afternoon,Reinforced,International Qeysariye cafe gallery
+32.660548,51.676956,Afternoon,Reinforced,Café
+32.660572,51.677182,Afternoon,Reinforced,Café
+32.65913,51.675256,Afternoon,Reinforced,Mesgarha Bazaar
+32.65932,51.676207,Afternoon,Reinforced,Mesgarha Bazaar

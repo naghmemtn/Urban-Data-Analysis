@@ -1,0 +1,23 @@
+Latitude,Longitude,TimePeriod,Type,Source
+32.65703535,51.67735866,Morning,Clustered,DBSCAN
+32.65830719,51.67731119,Morning,Clustered,DBSCAN
+32.65901024,51.67711714,Morning,Clustered,DBSCAN
+32.65929333,51.67550511,Morning,Clustered,DBSCAN
+32.65912281,51.67799373,Morning,Clustered,DBSCAN
+32.65857192,51.67789842,Morning,Clustered,DBSCAN
+32.65679195,51.67849503,Morning,Clustered,DBSCAN
+32.65624022,51.67863465,Morning,Clustered,DBSCAN
+32.65575054,51.67873641,Morning,Clustered,DBSCAN
+32.65749,51.678325,Morning,Reinforced,Sheikh Lotfollah Mosque
+32.657563,51.678652,Morning,Reinforced,Sheikh Lotfollah Mosque
+32.6547736,51.67681,Morning,Reinforced,Shah Mosque
+32.654187,51.677972,Morning,Reinforced,Shah Mosque
+32.657291,51.676757,Morning,Reinforced,Aali Qapu Palace
+32.656953,51.676825,Morning,Reinforced,Aali Qapu Palace
+32.660088,51.676324,Morning,Reinforced,International Qeysariye cafe gallery
+32.660153,51.676719,Morning,Reinforced,International Qeysariye cafe gallery
+32.660069,51.676745,Morning,Reinforced,International Qeysariye cafe gallery
+32.660548,51.676956,Morning,Reinforced,Café
+32.660572,51.677182,Morning,Reinforced,Café
+32.65913,51.675256,Morning,Reinforced,Mesgarha Bazaar
+32.65932,51.676207,Morning,Reinforced,Mesgarha Bazaar
